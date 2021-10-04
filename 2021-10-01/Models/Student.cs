@@ -67,7 +67,7 @@ namespace _2021_10_01
                 }
                 s += getAvg(i)+"\n";
             }
-            return s;
+            return s; //
         }
     }
 }
